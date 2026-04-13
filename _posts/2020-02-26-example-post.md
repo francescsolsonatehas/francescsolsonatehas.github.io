@@ -30,7 +30,37 @@ Here's a table:
 
 You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
 
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+If $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+
+If there are two solutions to $$ax^2 + bx + c = 0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+
+  
+{::options parse_block_html="true" /}
+
+$$
+a \ne 0,
+$$,
+
+{::options parse_block_html="false" /}
+
+
+ there are two solutions to 
+ 
+{::options parse_block_html="true" /}
+ 
+  $$ax^2 + bx + c = 0$$
+ 
+ {::options parse_block_html="false" /}
+
+ and they are 
+  
+{::options parse_block_html="true" /}
+
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+
+{::options parse_block_html="false" /}
 
 How about a yummy crepe?
 
