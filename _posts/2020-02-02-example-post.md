@@ -29,10 +29,6 @@ Here's a table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-
-When $$a \ne 0$$, there are two solutions to $$ax^2 + bx + c  =  0$$  and they are $$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$.
-
 
 How about a yummy crepe?
 
